@@ -41,7 +41,7 @@ I'm Rachapol, Junior Software Engineer from Thailand.
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-![alt text](https://badgen.net/badge/hello/world/red?icon=twitter)
+![alt text](https://badgen.net/badge/world/red?icon=twitter)
 
 
 
