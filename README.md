@@ -1,6 +1,10 @@
 
- # Hi there 👋, Nice to meet you #
+ # 👋 Hi there! Nice to meet you #
 
+Welcome to my page!
+I'm Rachapol, Junior Software Engineer from Thailand.
+
+(Things I code with)
 
 - 👋 Hi, I’m rachapol
 - 👀 I’m interested in ...
