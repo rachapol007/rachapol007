@@ -1,4 +1,4 @@
-
+[GitHub Pages](https://pages.github.com/).
 
 - 👋 Hi, I’m rachapol
 - 👀 I’m interested in ...
@@ -6,7 +6,6 @@
 - 💞️ I’m passionate about mobile app | Web Dev & I enjoy learning new things. 
 - 📫 How to reach me ...
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rachapol007&theme=dark)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachapol007&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
