@@ -7,10 +7,9 @@
 - 📫 How to reach me ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachapol007&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachapol007?orgs=kunana-ai&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachapol007&theme=dark&show_icons=true) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachapol007&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!---
 rachapol007/rachapol007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
