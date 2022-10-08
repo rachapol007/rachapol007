@@ -43,25 +43,9 @@ I'm Rachapol, Junior Software Engineer from Thailand.
 
 
 
-
-
 ### Where to find me ###
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](http://github.com/rachapol007)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachapol-78)
-
-
-
-
-<!-- [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) -->
-- 👋 Hi, I’m rachapol
-- 👀 I’m interested in ...
-- 🌱 I’m a junior software engineer.
-- 💞️ I’m passionate about mobile app | Web Dev & I enjoy learning new things. 
-- 📫 How to reach me ...
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachapol007&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
