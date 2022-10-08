@@ -7,7 +7,7 @@
 - 📫 How to reach me ...
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachapol007=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachapol007)
 
 <!---
 rachapol007/rachapol007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
